@@ -4,7 +4,7 @@ title: About Me!
 permalink: /about/
 ---
 
-![](/Users/jennawilkie/Downloads/Blogphot.png)
+![](https://github.com/jwilkie94/jwilkie94.github.io/tree/master/images)
 
 ### More Information
 
