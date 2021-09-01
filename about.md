@@ -4,7 +4,7 @@ title: About Me!
 permalink: /about/
 ---
 
-![ ](https://raw.githubusercontent.com/jwilkie94/jwilkie94.github.io/master/images/File_002.jpeg | width=100X200)
+![ ](https://raw.githubusercontent.com/jwilkie94/jwilkie94.github.io/master/images/File_002.jpeg)
 
 ### More Information
 
