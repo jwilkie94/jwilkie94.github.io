@@ -3,6 +3,7 @@ layout: page
 title: About Me!
 permalink: /about/
 ---
+
 ![](/Users/jennawilkie/Downloads/Blogphot.png)
 
 ### More Information
