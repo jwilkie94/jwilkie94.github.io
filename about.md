@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me!
 permalink: /about/
 ---
-
-Some information about you!
+![](/Users/jennawilkie/Downloads/Blogphot.png)
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Some of my hobbies (besides statistics of course!) include running, reading, and attempting to learn how to paint.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jwilkie2@ncsu.edu](mailto:jwilkie2@ncsu.edu)
