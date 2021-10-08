@@ -26,5 +26,5 @@ you don’t have a solid game plan before you start trying to create
 functions and manipulate data. A better approach would be to spend some
 time planning how to approach each aspect of the project first.
 
-[Github-Pages](https://github.com/jwilkie94/ST558-Project-1.git)  
-[Usual Repo](https://github.com/jwilkie94/jwilkie94.github.io.git)
+[Usual Repo](https://github.com/jwilkie94/ST558-Project-1.git)  
+[Github Pages Repo](https://jwilkie94.github.io/ST558-Project-1/)
