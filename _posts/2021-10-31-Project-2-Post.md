@@ -1,7 +1,7 @@
 Project 2 was designed to perform analyses on online news data subsetted by data type.  EDA was performed on each subset of data and four linear and ensemble models were fit against the data.  The data were split into a test and training set for model creation.  Once chosen, each model was then compared based on RMSE value to find the best model for predicting the data.
 
-[The repo for the project can be found here.](https://github.com/jwilkie94/ST558-Project-2)
-[The github pages for the project can be found here.](https://jwilkie94.github.io/ST558-Project-2/
+[The repo for the project can be found here.](https://github.com/jwilkie94/ST558-Project-2)  
+[The github pages for the project can be found here.](https://jwilkie94.github.io/ST558-Project-2/)
 
 
 **What would you do differently?**
