@@ -1,4 +1,3 @@
-# Reflection Blog Post
 
 **What (if anything) has changed about what you think a data scientist is and what they do?**  
 
